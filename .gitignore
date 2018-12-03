@@ -1,0 +1,8 @@
+.gradle/
+.idea/
+.project
+.settings
+bin/
+pws.eml
+pws.iml
+pws.zip

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="lib" path="ejml-v0.37-libs/ejml-cdense-0.37.jar"/>
+	<classpathentry kind="lib" path="ejml-v0.37-libs/ejml-core-0.37.jar" sourcepath="ejml-v0.37-libs/ejml-core-0.37-sources.jar"/>
+	<classpathentry kind="lib" path="ejml-v0.37-libs/ejml-ddense-0.37.jar" sourcepath="ejml-v0.37-libs/ejml-ddense-0.37-sources.jar"/>
+	<classpathentry kind="lib" path="ejml-v0.37-libs/ejml-dsparse-0.37.jar"/>
+	<classpathentry kind="lib" path="ejml-v0.37-libs/ejml-experimental-0.37.jar"/>
+	<classpathentry kind="lib" path="ejml-v0.37-libs/ejml-fdense-0.37.jar"/>
+	<classpathentry kind="lib" path="ejml-v0.37-libs/ejml-simple-0.37.jar" sourcepath="ejml-v0.37-libs/ejml-simple-0.37-sources.jar"/>
+	<classpathentry kind="lib" path="ejml-v0.37-libs/ejml-zdense-0.37.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="var" path="MAVEN_REPOSITORY/org/junit/jupiter/junit-jupiter-api/5.3.2/junit-jupiter-api-5.3.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
